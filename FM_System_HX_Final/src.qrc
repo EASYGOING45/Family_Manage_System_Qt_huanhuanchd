@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/b.jpg</file>
+        <file>images/mount.jpg</file>
+        <file>images/login.png</file>
+        <file>images/ll.png</file>
+        <file>images/fa.png</file>
+        <file>images/icoo.png</file>
+        <file>images/snow.jpg</file>
+        <file>images/about.png</file>
+        <file>images/light.jpg</file>
+        <file>images/sn.jpeg</file>
+    </qresource>
+</RCC>
